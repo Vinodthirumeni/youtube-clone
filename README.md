@@ -80,12 +80,12 @@ delete app.test.js,logo.svg,setuptests.js and delete that dependencies in App.js
 
 3rd PARTY PLUGIN
 
-  Install Material UI(For icons and components)
-    npm install @material-ui/core
-    npm install @material-ui/icons
+    Install Material UI(For icons and components)
+      npm install @material-ui/core
+      npm install @material-ui/icons
 
-  Install React Router Dom(For Navigation)
-    npm install react-router-dom
+    Install React Router Dom(For Navigation)
+      npm install react-router-dom
 
 DATABASE & DEPLOYMENT
   > npm i firebase
