@@ -101,4 +101,4 @@ DATABASE & DEPLOYMENT
 
 Note: npm i firebase (If not working try this and continue npm cache clean --force)
 
-Live Link : https://clone-b3cef.web.app/search/nfc
+Live Link : https://clone-b3cef.web.app
