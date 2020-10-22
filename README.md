@@ -88,16 +88,16 @@ delete app.test.js,logo.svg,setuptests.js and delete that dependencies in App.js
       npm install react-router-dom
 
 DATABASE & DEPLOYMENT
-  > npm i firebase
-  > npm install -g firebase-tools
-  > login to gmail -> search for firebase -> choose account -> go to console -> create a project -> go to project setting -> grab the config file -> create firebase.js file in your application -> paste it
-  > firebase login
-  > firebase init
-  > Hosting -> Use Exiting project ->(pick the project name)
-  > insted of public give build
+      > npm i firebase
+      > npm install -g firebase-tools
+      > login to gmail -> search for firebase -> choose account -> go to console -> create a project -> go to project setting -> grab the config file -> create firebase.js file in your application -> paste it
+      > firebase login
+      > firebase init
+      > Hosting -> Use Exiting project ->(pick the project name)
+      > insted of public give build
   > Single page application? -> y
-  > npm run build(in future any chnages in the code means we have to use this again)
-  > firebase deploy
+      > npm run build(in future any chnages in the code means we have to use this again)
+      > firebase deploy
 
 Note: npm i firebase (If not working try this and continue npm cache clean --force)
 
